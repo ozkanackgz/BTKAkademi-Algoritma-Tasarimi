@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\bin\Debug\work6.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\bin\Debug\work6.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\bin\Debug\work6.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\obj\Debug\work6.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\obj\Debug\work6.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\obj\Debug\work6.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\calisma6\work6\obj\Debug\work6.pdb

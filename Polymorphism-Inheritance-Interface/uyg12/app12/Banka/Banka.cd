@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="app12.Banka.MevduatHesabi">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAECAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Banka\MevduatHesabi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="app12.Banka.YatirimHesabi">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAECAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Banka\YatirimHesabi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="app12.Banka.AktifHesap">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAECAAAAAAAAABAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Banka\AktifHesap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="app12.Banka.IBankaHesap">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAECAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Banka\IBankaHesap.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="app12.Banka.ITransfer">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Banka\ITransfer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

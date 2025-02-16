@@ -1,0 +1,7 @@
+C:\Users\ozkan\source\repos\calisma7\work7\bin\Debug\work7.exe.config
+C:\Users\ozkan\source\repos\calisma7\work7\bin\Debug\work7.exe
+C:\Users\ozkan\source\repos\calisma7\work7\bin\Debug\work7.pdb
+C:\Users\ozkan\source\repos\calisma7\work7\obj\Debug\work7.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\calisma7\work7\obj\Debug\work7.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\calisma7\work7\obj\Debug\work7.exe
+C:\Users\ozkan\source\repos\calisma7\work7\obj\Debug\work7.pdb

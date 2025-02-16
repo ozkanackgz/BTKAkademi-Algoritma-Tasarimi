@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\bin\Debug\app10.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\bin\Debug\app10.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\bin\Debug\app10.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\obj\Debug\app10.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\obj\Debug\app10.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\obj\Debug\app10.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg10\app10\obj\Debug\app10.pdb

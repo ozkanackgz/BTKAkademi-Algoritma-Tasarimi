@@ -1,0 +1,7 @@
+C:\Users\ozkan\source\repos\uyg9\app9\bin\Debug\app9.exe.config
+C:\Users\ozkan\source\repos\uyg9\app9\bin\Debug\app9.exe
+C:\Users\ozkan\source\repos\uyg9\app9\bin\Debug\app9.pdb
+C:\Users\ozkan\source\repos\uyg9\app9\obj\Debug\app9.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\uyg9\app9\obj\Debug\app9.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\uyg9\app9\obj\Debug\app9.exe
+C:\Users\ozkan\source\repos\uyg9\app9\obj\Debug\app9.pdb

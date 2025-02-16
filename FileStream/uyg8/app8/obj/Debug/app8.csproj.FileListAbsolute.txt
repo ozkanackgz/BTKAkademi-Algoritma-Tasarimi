@@ -1,0 +1,14 @@
+C:\Users\ozkan\source\repos\uyg8\app8\bin\Debug\app8.exe.config
+C:\Users\ozkan\source\repos\uyg8\app8\bin\Debug\app8.exe
+C:\Users\ozkan\source\repos\uyg8\app8\bin\Debug\app8.pdb
+C:\Users\ozkan\source\repos\uyg8\app8\obj\Debug\app8.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\uyg8\app8\obj\Debug\app8.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\uyg8\app8\obj\Debug\app8.exe
+C:\Users\ozkan\source\repos\uyg8\app8\obj\Debug\app8.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\bin\Debug\app8.exe.config
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\bin\Debug\app8.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\bin\Debug\app8.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\obj\Debug\app8.csproj.AssemblyReference.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\obj\Debug\app8.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\obj\Debug\app8.exe
+C:\Users\ozkan\OneDrive\Masaüstü\Algoritma Tasarımı (Eğitim)\uyg8\app8\obj\Debug\app8.pdb

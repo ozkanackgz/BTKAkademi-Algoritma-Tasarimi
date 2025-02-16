@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozkan\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Tasar\u0131m\u0131 (E\u011Fitim)\\calisma3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641D7366-7283-4E0B-80A9-CB5F544212F5}|work3\\work3.csproj|c:\\users\\ozkan\\onedrive\\masa\u00FCst\u00FC\\algoritma tasar\u0131m\u0131 (e\u011Fitim)\\calisma3\\work3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641D7366-7283-4E0B-80A9-CB5F544212F5}|work3\\work3.csproj|solutionrelative:work3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Tasar\u0131m\u0131 (E\u011Fitim)\\calisma3\\work3\\Program.cs",
+              "RelativeDocumentMoniker": "work3\\Program.cs",
+              "ToolTip": "C:\\Users\\ozkan\\OneDrive\\Masa\u00FCst\u00FC\\Algoritma Tasar\u0131m\u0131 (E\u011Fitim)\\calisma3\\work3\\Program.cs",
+              "RelativeToolTip": "work3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T18:08:14.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

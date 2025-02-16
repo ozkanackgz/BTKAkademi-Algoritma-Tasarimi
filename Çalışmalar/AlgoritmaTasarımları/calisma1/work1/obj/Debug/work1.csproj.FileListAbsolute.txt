@@ -1,0 +1,7 @@
+C:\Users\ozkan\source\repos\calisma1\work1\obj\Debug\work1.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\calisma1\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\calisma1\work1\bin\Debug\work1.exe.config
+C:\Users\ozkan\source\repos\calisma1\work1\bin\Debug\work1.exe
+C:\Users\ozkan\source\repos\calisma1\work1\bin\Debug\work1.pdb
+C:\Users\ozkan\source\repos\calisma1\work1\obj\Debug\work1.exe
+C:\Users\ozkan\source\repos\calisma1\work1\obj\Debug\work1.pdb
